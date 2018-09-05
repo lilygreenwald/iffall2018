@@ -1,0 +1,40 @@
+body{
+	margin: 4em;
+	font-family: Courier;
+}
+
+h1 {
+	font-size: 2.5em;
+
+}
+h2{
+	font-size: 1.5em;
+}
+
+.Venkman {
+	color: red;
+}
+
+.Dana {
+	color: blue;
+}
+
+.Mayor {
+	color: green;
+}
+
+.Stantz {
+	color: purple;
+}
+
+.Spengler {
+	color: orange;
+}
+
+.Winston {
+	color: brown;
+}
+
+.direction {
+	font-style: italic;
+}
