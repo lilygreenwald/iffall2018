@@ -1,0 +1,182 @@
+body {
+	font-family: 'Archivo Narrow', sans-serif;
+
+}
+
+section.intro {
+	/*margin: 0;
+	display: block;
+	height: 490px;*/
+	background-image: url("images/item.jpg");
+	height: 371px;
+	padding-top: 109px;
+	background-position: center;
+}
+
+.intro h1 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 80px;
+	margin: 0;
+	margin-top: 53px;
+	color: white;	
+}
+
+.intro h2 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 13px;
+	color: white;	
+}
+
+.really {
+	font-style: italic;
+}
+
+section.section1 {
+	margin: auto;
+	display: block;
+	background-color: #F38534;
+	height: 720px;
+	margin-bottom: -1px;
+}
+
+.section1 img {
+	float: right;
+	margin: 0 0 24px 24px;
+	width: 400px;
+	height: 300px;
+}
+
+.section1 h1 {
+	padding-top: 50px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 40px;
+	color: white;
+	margin-top: -5px;
+}
+
+.section1 p {
+	margin: auto;
+	margin-top: 16px;
+	color: white;
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.essay {
+	margin: auto;
+	margin-top: 37px;
+	width: 960px;
+
+}
+
+section.section2 {
+	margin: 0;
+	display: block;
+	background-color: #6299EF;
+	height: 690px;
+
+}
+
+.section2 h1 {
+	padding-top: 42px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 40px;
+	color: white;
+	margin-top: -2px;	
+}
+
+
+div.column {
+	width:960px;
+	margin: auto;
+}
+
+section.section2 img{
+	width:200px;
+	height:150px;
+	margin-bottom:21px;
+	margin-right: 12px;
+}
+
+div.column {
+	width: 960px;
+	margin: auto;
+	column-count:2;
+	column-gap:0px;
+	padding-top:5px;
+}
+
+div.column p{
+	font-size: 18px;
+	color: white;
+	width:450px;
+	line-height:25px;
+	margin-top:-7px;
+}
+
+
+div.column div{
+	float:left;
+	display:inline-block;
+}
+
+h2.phototitle {
+	font-size:20px;
+	margin-top:2px;
+	color: white;
+}
+
+section.section3 {
+	margin: auto;
+	display: block;
+	background-color: #F84594;
+	height: 360px;	
+	padding-top: 42px;
+
+
+}
+
+.section3 h1 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: 0px;	
+	color: white;
+}
+
+.section3 p {
+	margin: auto;
+    margin-top: 38px;
+    width: 720px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 35px;
+    color: white;
+}
+
+footer.copyright {
+	padding-top: 40px;
+	width: 100%;
+	height: 100px;
+	margin: 0;
+	background-color: #660AB7;
+}
+
+.copyright div {
+	margin-top: 0px;
+	margin-left: 240px;
+	font-size: 17px;
+	color: white;
+}
+
+
+
+
+
+
