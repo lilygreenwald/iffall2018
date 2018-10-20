@@ -1,0 +1,87 @@
+
+html {
+	background-image: url("images/checker.jpg");
+
+}
+
+body{
+	margin: 15px;
+	background-color: black;
+	padding-top: 10px;
+	height: 850px;
+}
+
+
+h1, 
+h2{
+	font-family:'Sacramento', cursive;
+	text-align: center;
+}
+
+#inside{
+	font-size: 37px;
+	margin-top: 0px;
+
+}
+
+.banana {
+	background-image: url("images/banana.png");
+  	padding-top: 100px;
+ 	padding-bottom: 10px;
+ 	padding-left: 15px;
+ 	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: 350px;
+
+
+}
+
+h2 {
+	font-size: 30px;
+}
+
+div {
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+}
+
+
+/*.caption {
+
+	margin: auto;
+	background-color: #F0D10B;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-top: 10px;
+	margin-right: 30px;
+	margin-left: 30px;
+	font-weight: bold;
+	font-style: italic;
+	border: 10px solid black;
+}*/
+
+
+
+.ingredients {
+	margin: auto;
+	background-color: #F0D10B;
+	color: black;
+	padding-bottom: 30px;
+	padding-top: 10px;
+	margin-top: 29px;
+	margin-right: 40px;
+	margin-left: 40px;
+	border: 10px solid white;
+}
+
+.directions {
+	background-color: #F0D10B;
+	color: black;
+	padding-bottom: 30px;
+	padding-top: 10px;
+	margin-right: 40px;
+	margin-left: 40px;
+	margin-top: 30px;
+	border: 10px solid white;
+}
